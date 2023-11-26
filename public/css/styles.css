@@ -5,6 +5,7 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: rgb(152, 180, 180);
 }
 
 header,
@@ -14,6 +15,12 @@ footer {
     margin: 20px;
     padding: 20px;
     border: 1px solid #ccc;
+    border-radius: 1rem;
+}
+
+.portfolio-title {
+    margin: 0;
+    text-align: center;
 }
 
 nav ul {

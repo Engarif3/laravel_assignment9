@@ -11,7 +11,7 @@
 <body>
 
     <header>
-        <h1>My Portfolio</h1>
+        <h1 class="portfolio-title">My Portfolio</h1>
     </header>
 
     <nav>
