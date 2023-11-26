@@ -13,4 +13,5 @@ Route::get('/css/styles.css', function () {
 // Keep the existing routes for the PortfolioController
 Route::get('/', [PortfolioController::class, 'home']);
 Route::get('/about', [PortfolioController::class, 'about']);
+Route::get('/skills', [PortfolioController::class, 'skills']);
 Route::get('/projects', [PortfolioController::class, 'projects']);

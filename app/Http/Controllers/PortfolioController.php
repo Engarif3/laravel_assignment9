@@ -15,6 +15,10 @@ class PortfolioController extends Controller
     {
         return view('about');
     }
+    public function skills()
+    {
+        return view('skills');
+    }
 
     public function projects()
     {
