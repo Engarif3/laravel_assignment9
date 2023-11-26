@@ -15,12 +15,12 @@ Welcome to My Portfolio, a personal website showcasing my skills, projects, and 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/your-portfolio.git
+    git clone https://github.com/Engarif3/laravel_assignment9.git
     ```
 
 ## Install project dependencies using Composer:
 
--   cd your-portfolio
+-   cd portfolio
 -   composer install
 
 ## Running the Project
