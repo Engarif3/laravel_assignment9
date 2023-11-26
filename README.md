@@ -2,17 +2,6 @@
 
 Welcome to My Portfolio, a personal website showcasing my skills, projects, and other relevant information.
 
-## Table of Contents
-
--   [Requirements](#requirements)
--   [Getting Started](#getting-started)
-    -   [Laravel Setup](#laravel-setup)
-    -   [Blade Layouts](#blade-layouts)
-    -   [Social Media Icons](#social-media-icons)
--   [Running the Project](#running-the-project)
--   [Contributing](#contributing)
--   [License](#license)
-
 ## Requirements
 
 -   [Composer](https://getcomposer.org/)
@@ -31,8 +20,8 @@ Welcome to My Portfolio, a personal website showcasing my skills, projects, and 
 
 ## Install project dependencies using Composer:
 
-cd your-portfolio
-composer install
+-   cd your-portfolio
+-   composer install
 
 ## Running the Project
 
