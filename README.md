@@ -25,5 +25,5 @@ Welcome to My Portfolio, a personal website showcasing my skills, projects, and 
 
 ## Running the Project
 
-php artisan serve
-The application will be accessible at http://localhost:8000.
+-php artisan serve
+-The application will be accessible at http://localhost:8000.
